@@ -1,0 +1,1247 @@
+{
+  "login": {
+    "message": "123456",
+    "code": 2000
+  },
+  "logout": {
+    "token": "123",
+    "code": 2000
+  },
+  "queryAlarmLog": {
+    "alarmLogVos": [
+        {
+            "alarmTime": 1556343658,
+            "buildingName": "非人防地下室车道26H23D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "华达--阳光新城"
+        },
+        {
+            "alarmTime": 1556335847,
+            "buildingName": "20#楼地下室走廊6H79D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "华达--阳光新城"
+        },
+        {
+            "alarmTime": 1556331444,
+            "buildingName": "住院楼8楼4H106D水流",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "江山人民医院"
+        },
+        {
+            "alarmTime": 1556331443,
+            "buildingName": "6住院楼11楼3H46D手报",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "江山人民医院"
+        },
+        {
+            "alarmTime": 1556331443,
+            "buildingName": "7住院楼12楼2H112D烟感",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "江山人民医院"
+        },
+        {
+            "alarmTime": 1556331443,
+            "buildingName": "2住院楼12楼2H99D烟感",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "江山人民医院"
+        },
+        {
+            "alarmTime": 1556331442,
+            "buildingName": "2住院楼11楼3H45D烟感",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "江山人民医院"
+        },
+        {
+            "alarmTime": 1556329584,
+            "buildingName": "一栋五区一层37号温感5H37D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "四季青商业管理有限公司"
+        },
+        {
+            "alarmTime": 1556324901,
+            "buildingName": "一栋十一区二层120号烟感11H120D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "四季青商业管理有限公司"
+        },
+        {
+            "alarmTime": 1556324038,
+            "buildingName": "一栋八区一层103号烟感8H103D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "四季青商业管理有限公司"
+        },
+        {
+            "alarmTime": 1556322834,
+            "buildingName": "地下室人防车道7H85D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "江山人民检察院"
+        },
+        {
+            "alarmTime": 1556321840,
+            "buildingName": "一栋七区一层61号烟感7H61D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "四季青商业管理有限公司"
+        },
+        {
+            "alarmTime": 1556321656,
+            "buildingName": "一栋三区一层87号烟感3H87D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "四季青商业管理有限公司"
+        },
+        {
+            "alarmTime": 1556292612,
+            "buildingName": "一栋三区一层87号烟感3H87D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "四季青商业管理有限公司"
+        }
+    ],
+    "curPage": 1,
+    "pageNum": 317,
+    "pageSize": 30
+  },
+  "queryAlarmLog2": {
+    "alarmLogVos": [
+        {
+            "alarmTime": 1556343658,
+            "buildingName": "222非人防地下室车道26H23D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "华达--阳光新城"
+        },
+    
+        {
+            "alarmTime": 1556321656,
+            "buildingName": "一栋三区一层87号烟感3H87D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "四季青商业管理有限公司"
+        },
+        {
+            "alarmTime": 1556321387,
+            "buildingName": "一栋七区一层61号烟感7H61D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "四季青商业管理有限公司"
+        },
+        {
+            "alarmTime": 1556320553,
+            "buildingName": "非人防地下室车道26H23D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "华达--阳光新城"
+        },
+        {
+            "alarmTime": 1556319902,
+            "buildingName": "2住院楼12楼2H99D烟感",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "江山人民医院"
+        },
+        {
+            "alarmTime": 1556319902,
+            "buildingName": "2住院楼6楼5H100D烟感",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "江山人民医院"
+        },
+        {
+            "alarmTime": 1556319901,
+            "buildingName": "6住院楼11楼3H46D手报",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "江山人民医院"
+        },
+        {
+            "alarmTime": 1556319901,
+            "buildingName": "7住院楼12楼2H112D烟感",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "江山人民医院"
+        },
+        {
+            "alarmTime": 1556319900,
+            "buildingName": "2住院楼11楼3H45D烟感",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "江山人民医院"
+        },
+        {
+            "alarmTime": 1556302832,
+            "buildingName": "一栋八区一层103号烟感8H103D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "四季青商业管理有限公司"
+        },
+        {
+            "alarmTime": 1556296459,
+            "buildingName": "住院楼3楼手术室9H37D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "江山贝林医院"
+        },
+        {
+            "alarmTime": 1556294410,
+            "buildingName": "一栋二区一层33号烟感2H33D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "四季青商业管理有限公司"
+        },
+        {
+            "alarmTime": 1556294391,
+            "buildingName": "地下室人防车道7H85D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "江山人民检察院"
+        },
+        {
+            "alarmTime": 1556292612,
+            "buildingName": "一栋三区一层87号烟感3H87D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "四季青商业管理有限公司"
+        }
+    ],
+    "curPage": 1,
+    "pageNum": 317,
+    "pageSize": 30
+  },
+  "queryAlarmLog3": {
+    "alarmLogVos": [
+        {
+            "alarmTime": 1556343658,
+            "buildingName": "33333非人防地下室车道26H23D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "华达--阳光新城"
+        },
+        {
+            "alarmTime": 1556335847,
+            "buildingName": "20#楼地下室走廊6H79D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "华达--阳光新城"
+        },
+        {
+            "alarmTime": 1556335847,
+            "buildingName": "20#楼地下室前室6H68D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "华达--阳光新城"
+        },
+        {
+            "alarmTime": 1556335847,
+            "buildingName": "43#楼七层烟感14H128D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "华达--阳光新城"
+        },
+        {
+            "alarmTime": 1556333444,
+            "buildingName": "地下室感烟2H63D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "江山瑞都精品酒店"
+        },
+        {
+            "alarmTime": 1556332126,
+            "buildingName": "十三层走道烟感3H121D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "蔡家山公租房"
+        },
+        {
+            "alarmTime": 1556331444,
+            "buildingName": "2住院楼6楼5H100D烟感",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "江山人民医院"
+        },
+        {
+            "alarmTime": 1556331444,
+            "buildingName": "住院楼8楼4H106D水流",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "江山人民医院"
+        },
+        {
+            "alarmTime": 1556331443,
+            "buildingName": "6住院楼11楼3H46D手报",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "江山人民医院"
+        },
+        {
+            "alarmTime": 1556331443,
+            "buildingName": "7住院楼12楼2H112D烟感",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "江山人民医院"
+        },
+        {
+            "alarmTime": 1556331443,
+            "buildingName": "2住院楼12楼2H99D烟感",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "江山人民医院"
+        },
+        {
+            "alarmTime": 1556331442,
+            "buildingName": "2住院楼11楼3H45D烟感",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "江山人民医院"
+        },
+        {
+            "alarmTime": 1556329584,
+            "buildingName": "一栋五区一层37号温感5H37D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "四季青商业管理有限公司"
+        },
+        {
+            "alarmTime": 1556324901,
+            "buildingName": "一栋十一区二层120号烟感11H120D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "四季青商业管理有限公司"
+        },
+        {
+            "alarmTime": 1556324038,
+            "buildingName": "一栋八区一层103号烟感8H103D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "四季青商业管理有限公司"
+        },
+        {
+            "alarmTime": 1556322834,
+            "buildingName": "地下室人防车道7H85D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "江山人民检察院"
+        },
+        {
+            "alarmTime": 1556321840,
+            "buildingName": "一栋七区一层61号烟感7H61D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "四季青商业管理有限公司"
+        },
+        {
+            "alarmTime": 1556321656,
+            "buildingName": "一栋三区一层87号烟感3H87D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "四季青商业管理有限公司"
+        },
+        {
+            "alarmTime": 1556321387,
+            "buildingName": "一栋七区一层61号烟感7H61D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "四季青商业管理有限公司"
+        },
+        {
+            "alarmTime": 1556320553,
+            "buildingName": "非人防地下室车道26H23D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "华达--阳光新城"
+        },
+        {
+            "alarmTime": 1556319902,
+            "buildingName": "2住院楼12楼2H99D烟感",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "江山人民医院"
+        },
+        {
+            "alarmTime": 1556319902,
+            "buildingName": "2住院楼6楼5H100D烟感",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "江山人民医院"
+        },
+        {
+            "alarmTime": 1556319901,
+            "buildingName": "6住院楼11楼3H46D手报",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "江山人民医院"
+        },
+        {
+            "alarmTime": 1556319901,
+            "buildingName": "7住院楼12楼2H112D烟感",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "江山人民医院"
+        },
+        {
+            "alarmTime": 1556319900,
+            "buildingName": "2住院楼11楼3H45D烟感",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "江山人民医院"
+        },
+        {
+            "alarmTime": 1556302832,
+            "buildingName": "一栋八区一层103号烟感8H103D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "四季青商业管理有限公司"
+        },
+        {
+            "alarmTime": 1556296459,
+            "buildingName": "住院楼3楼手术室9H37D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "江山贝林医院"
+        },
+        {
+            "alarmTime": 1556294410,
+            "buildingName": "一栋二区一层33号烟感2H33D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "四季青商业管理有限公司"
+        },
+        {
+            "alarmTime": 1556294391,
+            "buildingName": "地下室人防车道7H85D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "江山人民检察院"
+        },
+        {
+            "alarmTime": 1556292612,
+            "buildingName": "一栋三区一层87号烟感3H87D",
+            "classifyResult": "",
+            "result": "误报",
+            "unit": "四季青商业管理有限公司"
+        }
+    ],
+    "curPage": 1,
+    "pageNum": 317,
+    "pageSize": 30
+  },
+  "queryHiddenLog": {
+    "curPage": 2,
+    "hiddenLogVos": [
+        {
+            "alarmFrequency": 1946,
+            "alarmTime": 1556342013,
+            "classifyResult": "",
+            "confirmResult": "未确认",
+            "deviceName": "111111111虎山精品馆2号消火栓",
+            "failType": "故障",
+            "resetStatus": "未复位",
+            "resetTime": 0,
+            "unit": "虎山精品建材馆"
+        },
+        {
+            "alarmFrequency": 1,
+            "alarmTime": 1556341961,
+            "classifyResult": "",
+            "confirmResult": "已确认",
+            "deviceName": "地下一层Ｂ区车道烟感2H69D",
+            "failType": "故障",
+            "resetStatus": "已复位",
+            "resetTime": 1556342172,
+            "unit": "国强香樟花苑"
+        },
+        {
+            "alarmFrequency": 1,
+            "alarmTime": 1556341918,
+            "classifyResult": "",
+            "confirmResult": "未确认",
+            "deviceName": "3期地下室非人防烟感6H174D",
+            "failType": "故障",
+            "resetStatus": "未复位",
+            "resetTime": 0,
+            "unit": "博瑞明珠城"
+        },
+        {
+            "alarmFrequency": 1,
+            "alarmTime": 1556341906,
+            "classifyResult": "",
+            "confirmResult": "已确认",
+            "deviceName": "地下室水泵房烟感1H17D",
+            "failType": "故障",
+            "resetStatus": "已复位",
+            "resetTime": 1556342013,
+            "unit": "蔡家山公租房"
+        },
+        {
+            "alarmFrequency": 151,
+            "alarmTime": 1556341853,
+            "classifyResult": "",
+            "confirmResult": "未确认",
+            "deviceName": "1号压力表",
+            "failType": "故障",
+            "resetStatus": "未复位",
+            "resetTime": 0,
+            "unit": "浙江江山农商银行"
+        },
+        {
+            "alarmFrequency": 4226,
+            "alarmTime": 1556341852,
+            "classifyResult": "",
+            "confirmResult": "未确认",
+            "deviceName": "学府水压表1号",
+            "failType": "故障",
+            "resetStatus": "未复位",
+            "resetTime": 0,
+            "unit": "学府大酒店"
+        },
+        {
+            "alarmFrequency": 1,
+            "alarmTime": 1556341845,
+            "classifyResult": "",
+            "confirmResult": "已确认",
+            "deviceName": "205幢地下二层通道烟感3H47D",
+            "failType": "故障",
+            "resetStatus": "已复位",
+            "resetTime": 1556341956,
+            "unit": "国强香樟花苑"
+        },
+        {
+            "alarmFrequency": 200,
+            "alarmTime": 1556341758,
+            "classifyResult": "",
+            "confirmResult": "未确认",
+            "deviceName": "蔡家山消防泵",
+            "failType": "故障",
+            "resetStatus": "未复位",
+            "resetTime": 0,
+            "unit": "蔡家山公租房"
+        },
+        {
+            "alarmFrequency": 200,
+            "alarmTime": 1556341682,
+            "classifyResult": "",
+            "confirmResult": "未确认",
+            "deviceName": "蔡家山喷淋泵",
+            "failType": "故障",
+            "resetStatus": "未复位",
+            "resetTime": 0,
+            "unit": "蔡家山公租房"
+        },
+        {
+            "alarmFrequency": 1,
+            "alarmTime": 1556341622,
+            "classifyResult": "",
+            "confirmResult": "已确认",
+            "deviceName": "地下二层水泵房烟感3H60D",
+            "failType": "故障",
+            "resetStatus": "已复位",
+            "resetTime": 1556341655,
+            "unit": "国强香樟花苑"
+        }
+    ],
+    "pageNum": 65546,
+    "pageSize": 10
+},
+"queryHiddenLog2": {
+  "curPage": 2,
+  "hiddenLogVos": [
+      {
+          "alarmFrequency": 1946,
+          "alarmTime": 1556342013,
+          "classifyResult": "",
+          "confirmResult": "未确认",
+          "deviceName": "2222222222虎山精品馆2号消火栓",
+          "failType": "故障1111111111",
+          "resetStatus": "未复位",
+          "resetTime": 0,
+          "unit": "虎山精品建材馆"
+      },
+      {
+          "alarmFrequency": 1,
+          "alarmTime": 1556341961,
+          "classifyResult": "",
+          "confirmResult": "已确认",
+          "deviceName": "地下一层Ｂ区车道烟感2H69D",
+          "failType": "故障",
+          "resetStatus": "已复位",
+          "resetTime": 1556342172,
+          "unit": "国强香樟花苑"
+      },
+      {
+          "alarmFrequency": 1,
+          "alarmTime": 1556341918,
+          "classifyResult": "",
+          "confirmResult": "未确认",
+          "deviceName": "3期地下室非人防烟感6H174D",
+          "failType": "故障",
+          "resetStatus": "未复位",
+          "resetTime": 0,
+          "unit": "博瑞明珠城"
+      },
+      {
+          "alarmFrequency": 1,
+          "alarmTime": 1556341906,
+          "classifyResult": "",
+          "confirmResult": "已确认",
+          "deviceName": "地下室水泵房烟感1H17D",
+          "failType": "故障",
+          "resetStatus": "已复位",
+          "resetTime": 1556342013,
+          "unit": "蔡家山公租房"
+      },
+      {
+          "alarmFrequency": 151,
+          "alarmTime": 1556341853,
+          "classifyResult": "",
+          "confirmResult": "未确认",
+          "deviceName": "1号压力表",
+          "failType": "故障",
+          "resetStatus": "未复位",
+          "resetTime": 0,
+          "unit": "浙江江山农商银行"
+      },
+      {
+          "alarmFrequency": 4226,
+          "alarmTime": 1556341852,
+          "classifyResult": "",
+          "confirmResult": "未确认",
+          "deviceName": "学府水压表1号",
+          "failType": "故障",
+          "resetStatus": "未复位",
+          "resetTime": 0,
+          "unit": "学府大酒店"
+      },
+      {
+          "alarmFrequency": 1,
+          "alarmTime": 1556341845,
+          "classifyResult": "",
+          "confirmResult": "已确认",
+          "deviceName": "205幢地下二层通道烟感3H47D",
+          "failType": "故障",
+          "resetStatus": "已复位",
+          "resetTime": 1556341956,
+          "unit": "国强香樟花苑"
+      },
+      {
+          "alarmFrequency": 200,
+          "alarmTime": 1556341758,
+          "classifyResult": "",
+          "confirmResult": "未确认",
+          "deviceName": "蔡家山消防泵",
+          "failType": "故障",
+          "resetStatus": "未复位",
+          "resetTime": 0,
+          "unit": "蔡家山公租房"
+      },
+      {
+          "alarmFrequency": 200,
+          "alarmTime": 1556341682,
+          "classifyResult": "",
+          "confirmResult": "未确认",
+          "deviceName": "蔡家山喷淋泵",
+          "failType": "故障",
+          "resetStatus": "未复位",
+          "resetTime": 0,
+          "unit": "蔡家山公租房"
+      },
+      {
+          "alarmFrequency": 1,
+          "alarmTime": 1556341622,
+          "classifyResult": "",
+          "confirmResult": "已确认",
+          "deviceName": "地下二层水泵房烟感3H60D",
+          "failType": "故障",
+          "resetStatus": "已复位",
+          "resetTime": 1556341655,
+          "unit": "国强香樟花苑"
+      }
+  ],
+  "pageNum": 65546,
+  "pageSize": 10
+},
+"queryHiddenLog3": {
+  "curPage": 2,
+  "hiddenLogVos": [
+      {
+          "alarmFrequency": 1946,
+          "alarmTime": 1556342013,
+          "classifyResult": "",
+          "confirmResult": "未确认",
+          "deviceName": "虎山精品馆2号消火栓",
+          "failType": "故障",
+          "resetStatus": "未复位3222222222222",
+          "resetTime": 0,
+          "unit": "虎山精品建材馆"
+      },
+      {
+          "alarmFrequency": 1,
+          "alarmTime": 1556341961,
+          "classifyResult": "",
+          "confirmResult": "已确认",
+          "deviceName": "地下一层Ｂ区车道烟感2H69D",
+          "failType": "故障",
+          "resetStatus": "已复位",
+          "resetTime": 1556342172,
+          "unit": "国强香樟花苑"
+      },
+      {
+          "alarmFrequency": 1,
+          "alarmTime": 1556341918,
+          "classifyResult": "",
+          "confirmResult": "未确认",
+          "deviceName": "3期地下室非人防烟感6H174D",
+          "failType": "故障",
+          "resetStatus": "未复位",
+          "resetTime": 0,
+          "unit": "博瑞明珠城"
+      },
+      {
+          "alarmFrequency": 1,
+          "alarmTime": 1556341906,
+          "classifyResult": "",
+          "confirmResult": "已确认",
+          "deviceName": "地下室水泵房烟感1H17D",
+          "failType": "故障",
+          "resetStatus": "已复位",
+          "resetTime": 1556342013,
+          "unit": "蔡家山公租房"
+      },
+      {
+          "alarmFrequency": 151,
+          "alarmTime": 1556341853,
+          "classifyResult": "",
+          "confirmResult": "未确认",
+          "deviceName": "1号压力表",
+          "failType": "故障",
+          "resetStatus": "未复位",
+          "resetTime": 0,
+          "unit": "浙江江山农商银行"
+      },
+      {
+          "alarmFrequency": 4226,
+          "alarmTime": 1556341852,
+          "classifyResult": "",
+          "confirmResult": "未确认",
+          "deviceName": "学府水压表1号",
+          "failType": "故障",
+          "resetStatus": "未复位",
+          "resetTime": 0,
+          "unit": "学府大酒店"
+      },
+      {
+          "alarmFrequency": 1,
+          "alarmTime": 1556341845,
+          "classifyResult": "",
+          "confirmResult": "已确认",
+          "deviceName": "205幢地下二层通道烟感3H47D",
+          "failType": "故障",
+          "resetStatus": "已复位",
+          "resetTime": 1556341956,
+          "unit": "国强香樟花苑"
+      },
+      {
+          "alarmFrequency": 200,
+          "alarmTime": 1556341758,
+          "classifyResult": "",
+          "confirmResult": "未确认",
+          "deviceName": "蔡家山消防泵",
+          "failType": "故障",
+          "resetStatus": "未复位",
+          "resetTime": 0,
+          "unit": "蔡家山公租房"
+      },
+      {
+          "alarmFrequency": 200,
+          "alarmTime": 1556341682,
+          "classifyResult": "",
+          "confirmResult": "未确认",
+          "deviceName": "蔡家山喷淋泵",
+          "failType": "故障",
+          "resetStatus": "未复位",
+          "resetTime": 0,
+          "unit": "蔡家山公租房"
+      },
+      {
+          "alarmFrequency": 1,
+          "alarmTime": 1556341622,
+          "classifyResult": "",
+          "confirmResult": "已确认",
+          "deviceName": "地下二层水泵房烟感3H60D",
+          "failType": "故障",
+          "resetStatus": "已复位",
+          "resetTime": 1556341655,
+          "unit": "国强香樟花苑"
+      }
+  ],
+  "pageNum": 65546,
+  "pageSize": 10
+},
+
+  "unitInfo": [
+    {
+      "alarmLogs": [
+          {
+              "alarmTime": 1554360970,
+              "buildingName": "一层宴会厅走道",
+              "classifyResult": "",
+              "result": "误报",
+              "unit": "江山万隆度假村"
+          },
+          {
+              "alarmTime": 1554360801,
+              "buildingName": "一层宴会厅走道",
+              "classifyResult": "",
+              "result": "误报",
+              "unit": "江山万隆度假村"
+          },
+          {
+              "alarmTime": 1550818769,
+              "buildingName": "万隆度假村用传",
+              "classifyResult": "",
+              "result": "误报",
+              "unit": "江山万隆度假村"
+          },
+          {
+              "alarmTime": 1550818513,
+              "buildingName": "万隆度假村用传",
+              "classifyResult": "",
+              "result": "误报",
+              "unit": "江山万隆度假村"
+          },
+          {
+              "alarmTime": 1550111898,
+              "buildingName": "万隆度假村蓝天用传",
+              "classifyResult": "",
+              "result": "误报",
+              "unit": "江山万隆度假村"
+          }
+      ],
+      "hiddenLogs": [
+          {
+              "alarmFrequency": 202,
+              "alarmTime": 1556342380,
+              "classifyResult": "",
+              "confirmResult": "未确认",
+              "deviceName": "万隆度假村压力表",
+              "failType": "故障",
+              "resetStatus": "未复位",
+              "resetTime": 1556342380,
+              "unit": "江山万隆度假村"
+          },
+          {
+              "alarmFrequency": 20,
+              "alarmTime": 1556342380,
+              "classifyResult": "",
+              "confirmResult": "未确认",
+              "deviceName": "万隆度假村压力表",
+              "failType": "故障",
+              "resetStatus": "未复位",
+              "resetTime": 1556342380,
+              "unit": "江山万隆度假村"
+          },
+          {
+              "alarmFrequency": 2,
+              "alarmTime": 1556342380,
+              "classifyResult": "",
+              "confirmResult": "未确认",
+              "deviceName": "万隆度假村压力表",
+              "failType": "故障",
+              "resetStatus": "未复位",
+              "resetTime": 1556342380,
+              "unit": "江山万隆度假村"
+          }
+      ],
+      "location": {
+          "lat": 28.70429199106716,
+          "lng": 118.51973196595133
+      },
+      "presetTimeAlarmCount": 0,
+      "presetTimeHiddenCount": 1,
+      "status": 0,
+      "unitName": "江山万隆度假村1"
+    },
+    {
+      "alarmLogs": [
+          {
+              "alarmTime": 1554360970,
+              "buildingName": "一层宴会厅走道",
+              "classifyResult": "",
+              "result": "误报",
+              "unit": "江山万隆度假村"
+          },
+          {
+              "alarmTime": 1554360801,
+              "buildingName": "一层宴会厅走道",
+              "classifyResult": "",
+              "result": "误报",
+              "unit": "江山万隆度假村"
+          },
+          {
+              "alarmTime": 1550818769,
+              "buildingName": "万隆度假村用传",
+              "classifyResult": "",
+              "result": "误报",
+              "unit": "江山万隆度假村"
+          },
+          {
+              "alarmTime": 1550818513,
+              "buildingName": "万隆度假村用传",
+              "classifyResult": "",
+              "result": "误报",
+              "unit": "江山万隆度假村"
+          },
+          {
+              "alarmTime": 1550111898,
+              "buildingName": "万隆度假村蓝天用传",
+              "classifyResult": "",
+              "result": "误报",
+              "unit": "江山万隆度假村"
+          }
+      ],
+      "hiddenLogs": [
+          {
+              "alarmFrequency": 202,
+              "alarmTime": 1556342380,
+              "classifyResult": "",
+              "confirmResult": "未确认",
+              "deviceName": "万隆度假村压力表",
+              "failType": "故障",
+              "resetStatus": "未复位",
+              "resetTime": 0,
+              "unit": "江山万隆度假村"
+          }
+      ],
+      "location": {
+          "lat": 28.714,
+          "lng": 118.619
+      },
+      "presetTimeAlarmCount": 0,
+      "presetTimeHiddenCount": 1,
+      "status": 0,
+      "unitName": "江山万隆度假村2"
+    },
+    {
+      "alarmLogs": [
+          {
+              "alarmTime": 1554360970,
+              "buildingName": "一层宴会厅走道",
+              "classifyResult": "",
+              "result": "误报",
+              "unit": "江山万隆度假村"
+          },
+          {
+              "alarmTime": 1554360801,
+              "buildingName": "一层宴会厅走道",
+              "classifyResult": "",
+              "result": "误报",
+              "unit": "江山万隆度假村"
+          },
+          {
+              "alarmTime": 1550818769,
+              "buildingName": "万隆度假村用传",
+              "classifyResult": "",
+              "result": "误报",
+              "unit": "江山万隆度假村"
+          },
+          {
+              "alarmTime": 1550818513,
+              "buildingName": "万隆度假村用传",
+              "classifyResult": "",
+              "result": "误报",
+              "unit": "江山万隆度假村"
+          },
+          {
+              "alarmTime": 1550111898,
+              "buildingName": "万隆度假村蓝天用传",
+              "classifyResult": "",
+              "result": "误报",
+              "unit": "江山万隆度假村"
+          }
+      ],
+      "hiddenLogs": [
+          {
+              "alarmFrequency": 202,
+              "alarmTime": 1556342380,
+              "classifyResult": "",
+              "confirmResult": "未确认",
+              "deviceName": "万隆度假村压力表",
+              "failType": "故障",
+              "resetStatus": "未复位",
+              "resetTime": 0,
+              "unit": "江山万隆度假村"
+          }
+      ],
+      "location": {
+          "lat": 28.72429199106716,
+          "lng": 118.61973196595133
+      },
+      "presetTimeAlarmCount": 0,
+      "presetTimeHiddenCount": 1,
+      "status": 0,
+      "unitName": "江山万隆度假村3"
+    }
+  ],
+  "user": {
+    "id": 1,
+    "name": "cyd"
+  },
+  "section1": [
+    {
+      "device": "section1住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "device": "section1住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+
+    {
+      "device": "section1住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "device": "section1住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "device": "section1住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "device": "住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "device": "住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "device": "住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "device": "住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "device": "住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    }
+  ],
+  "section2": [
+    {
+      "device": "section2住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "device": "section2住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+
+    {
+      "device": "section2住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "device": "section2住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "device": "住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "device": "住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "device": "住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "device": "住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "device": "住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "device": "住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    }
+  ],
+  "section3": [
+    {
+      "device": "section3住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "device": "住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+
+    {
+      "device": "住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "device": "住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "device": "住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "device": "住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "device": "住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "device": "住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "device": "住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "device": "住院楼地下室清洗室6H31D",
+      "section": "江山贝林医院",
+      "type": "火警",
+      "date": "2016-05-02",
+      "status": "未复位",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    }
+  ]
+}
